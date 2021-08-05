@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!64 &-69057788997232849
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113886782962775261}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4285235968360977631, guid: b46bf60d455347843a4446d4928a4541, type: 3}
+--- !u!1001 &3318828860949389064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186941262376481135, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7563502745970043861, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_Name
+      value: SM_PlateAndSign_02 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8355877001975024128, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3ea2cce2496eeb409e202212952e1ce, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+--- !u!1 &5113886782962775261 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7563502745970043861, guid: 5046664257ca3664a9be03a7b0e441a2, type: 3}
+  m_PrefabInstance: {fileID: 3318828860949389064}
+  m_PrefabAsset: {fileID: 0}
